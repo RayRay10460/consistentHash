@@ -3,11 +3,13 @@ consistent hash with virtual node
 
 example:
 
+
+
 package main
 
 import (
 	"fmt"
-	"webservice/consistenthash"
+	"consistentHash/consistenthash"
 )
 
 func main() {
